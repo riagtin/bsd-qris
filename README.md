@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GoDoc](https://godoc.org/github.com/riagtin/bsd-qris?status.svg)](https://pkg.go.dev/github.com/riagtin/bsd-qris)
 
-Modul bersama resmi **PT. BINTANG STUDIO DIGITAL** untuk pemrosesan, validasi, dan konversi **QRIS Standar Nasional (ASPI / Bank Indonesia)** berbasis spesifikasi **EMVCo Merchant-Presented Mode (MPM)**.
+Modul bersama resmi **Bintang Studio Digital** untuk pemrosesan, validasi, dan konversi **QRIS Standar Nasional (ASPI / Bank Indonesia)** berbasis spesifikasi **EMVCo Merchant-Presented Mode (MPM)**.
 
 Modul ini dirancang dengan prinsip:
 * **Zero Escrow / Zero Fee:** Menggunakan QRIS toko yang sudah ada, dana 100% langsung masuk ke rekening bank/e-wallet merchant tanpa potongan platform.
@@ -98,5 +98,5 @@ BenchmarkGenerateDynamic-12    	  110308	     11125 ns/op (0.011 ms)
 ---
 
 ## 📄 Lisensi
-Hak Cipta © 2026 PT. BINTANG STUDIO DIGITAL.  
+Hak Cipta © 2026 Bintang Studio Digital.  
 Didistribusikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
